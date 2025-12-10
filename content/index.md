@@ -26,7 +26,7 @@ Aqui estão os principais temas que estou explorando no momento:
 ### 📝 Notas Recentes
 *O que eu tenho pensado ultimamente:*
 
-* [[que tal falarmos sobre compulsoes?]]
+* [[Compulsoes]]
 
 ---
 > [!info] Sobre mim
