@@ -27,7 +27,8 @@ Aqui estão os principais temas que estou explorando no momento:
 *O que eu tenho pensado ultimamente:*
 
 * [[Compulsoes]]
-
+Acompanhe também meus ultimos poemas:
+- [[quem]]
 ---
 > [!info] Sobre mim
 > Estudante de Engenharia da Computação, usuário de Arch Linux, aspirante a artista marcial, no fim apenas um meio louco com tendencias a ser escritor e poeta. Este é o **Entrelinhas e Ruas**.
