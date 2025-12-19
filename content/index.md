@@ -27,8 +27,9 @@ Aqui estão os principais temas que estou explorando no momento:
 *O que eu tenho pensado ultimamente:*
 
 * [[Compulsoes]]
+* [[fazemos]]
 
-Acompanhe também meus ultimos poemas:
+Acompanhe também meus últimos poemas:
 
 - [[quem]]
 ---
