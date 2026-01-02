@@ -1,3 +1,16 @@
+---
+title: removendo e movendo
+TQ_show_done_date:
+tags:
+  - computação
+  - software
+  - remove
+  - copy
+  - move
+---
+---
+
+
 Segunda parte da minha documentação sobre terminal e linux.
 
 Hoje mexemos com rm, mv e cp:
